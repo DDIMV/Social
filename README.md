@@ -1,5 +1,4 @@
-# Social
-DDIMV Sociale Medier
+# DDIMV Sociale Medier
 
 
 Patreon = Comibg Soon 
