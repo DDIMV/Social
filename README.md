@@ -10,7 +10,7 @@
 | ![](https://github.com/mbarulli/nostr-logo/blob/main/PNG/nostr-icon-white-256x256.png?raw=true)     | Nostr     | npub1z4vm33hjsusm55jq3987dn983s6a45vyffrgd5mtejlydkkrnm0san98ta     |
 | ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)     | Instagram    | @ddimvpod     |
 | ![](https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg)     | Threads     | @ddimvpod     |
-| ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg)     | Facebook     | Vi har ikke FaceBoo     |
+| ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg)     | Facebook     | Vi har ikke FaceBook     |
 | ![](https://play-lh.googleusercontent.com/BmUViDVOKNJe0GYJe22hsr7juFndRVbvr1fGmHGXqHfJjNAXjd26bfuGRQpVrpJ6YbA)     | TikTok     | Kommer Snart     |
 | ![](https://play-lh.googleusercontent.com/MvwNSKOVV0v4topC8cPRO5mFKSsDRHR228mnOpjbuS878amzRyZbaot5ea60cH3y4g)     | Desofy     | @DDIMV     | 
 | ![](https://post.news/images/post-logo-darkmode.svg)     | Post News     | @DDIMVpodcast     |
