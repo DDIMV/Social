@@ -14,7 +14,6 @@
 | ![](https://play-lh.googleusercontent.com/BmUViDVOKNJe0GYJe22hsr7juFndRVbvr1fGmHGXqHfJjNAXjd26bfuGRQpVrpJ6YbA)     | TikTok     | Kommer Snart     |
 | ![](https://play-lh.googleusercontent.com/MvwNSKOVV0v4topC8cPRO5mFKSsDRHR228mnOpjbuS878amzRyZbaot5ea60cH3y4g)     | Desofy     | @DDIMV     | 
 | ![](https://post.news/images/post-logo-darkmode.svg)     | Post News     | @DDIMVpodcast     |
-| ![](https://drive.google.com/uc?export=view&id=1MfgoKVzfhqflObCIQR36fDGnhRgX5ft-)     | Pebble     | @DDIMV     |
 | ![](https://play-lh.googleusercontent.com/L4cHtgnwoFvahrVkL7oC0IQ05AVfJw05yviK0vOXwNcT7ilm-M24zpbC7SMipoSrCJIC)    | Minds     | @DDIMV     |
 | ![](https://avatars.githubusercontent.com/u/17434692?s=200&v=4)     | Steemit     | @DDIMV     |
 | ![](https://play-lh.googleusercontent.com/pQMhN5ypQ8kRThWqmP5wJVJ_StpPU2ktcfpjmZHYQmEnKhlwXkeCO1JoLj0Ho-sPzhA)     | Tribel     | @DDIMV     |
