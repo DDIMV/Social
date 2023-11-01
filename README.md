@@ -20,7 +20,7 @@
 | ![](https://play-lh.googleusercontent.com/mGb9igccuINK7_E25XepzEsGDW9aHve8-dLA786yuC4q93tn-WPnuI8ARz4DnfsVFf4=w240-h480-rw)     | Patreon     | DDIMV     |
 
  
-**OBS: Vi er kun på overstående sociale medier, med de angivet brugernavne. Hvis du ser os på et andet sociale medier eller med et andet brugernavn, er det ikke os! Hvis nedenstående kanariefugl er død (vist med rød farve), betyder det at vi ikke længere har eneret til vores social medier. Det kan være i tilfælde af hacking eller beslaggelse**
+**OBS: Vi er kun på overstående sociale medier, med de angivet brugernavne. Hvis du ser os på et andet sociale medie eller med et andet brugernavn, er det ikke os! Hvis nedenstående kanariefugl er død (vist med rød farve), betyder det at vi ikke længere har eneret til vores social medier. Det kan være i tilfælde af hacking eller beslaggelse**
 
 
 
